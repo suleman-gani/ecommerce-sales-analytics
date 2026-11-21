@@ -5,6 +5,10 @@ An interactive Microsoft Excel dashboard designed to analyze e-commerce sales pe
 🎯 Project Overview
 
 This project focuses on analyzing e-commerce sales data to identify sales trends, top-performing products, and regional performance using Microsoft Excel.
+### 📸 Dashboard Preview
+
+![E-Commerce Sales Analytics Dashboard](ecommerce%20Dashboard.png)
+
 
 🛠️ Tools & Technologies
 
