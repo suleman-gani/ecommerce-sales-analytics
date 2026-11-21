@@ -28,7 +28,7 @@ This project focuses on analyzing e-commerce sales data to identify sales trends
 - Sales Trends: Sales and order trends over time.
 - Interactive Filters: Filter dashboard data by category and state.
 
-- 🔍 Key Insights
+  🔍 Key Insights
 
 - Total Revenue: Generated ₹30.03 lakh in sales across 82 orders.
 - Top Category: Furniture contributed the highest revenue (₹10.48 lakh), followed by Technology (₹10.26 lakh).
