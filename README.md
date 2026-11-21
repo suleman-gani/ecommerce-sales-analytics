@@ -30,7 +30,7 @@ This project focuses on analyzing e-commerce sales data to identify sales trends
 
 📂 Project File
 
-- "Download Excel Workbook" (ecommerce_sales_analytics.xlsx)
+- [Download Excel Workbook](ecommerce_sales_analytics.xlsx)
 
 👨‍💻 Author
 
